@@ -34,7 +34,7 @@ $$
 Se comparan tres casos contra un par de polos de referencia (-1 ± j4):
 - A) misma sigma, distinta wd
 - B) misma wd, distinta sigma
-- mismo ángulo theta, polos más lejos del origen
+- C) mismo ángulo theta, polos más lejos del origen
 
 Requisitos: numpy, scipy, matplotlib
 Uso: python polos_plano_s.py   ->   genera polos_plano_s.png
